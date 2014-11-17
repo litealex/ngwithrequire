@@ -1,0 +1,21 @@
+{
+  "name": "ngwithrequire",
+  "version": "1.0.0",
+  "homepage": "https://github.com/litealex/ngwithrequire",
+  "authors": [
+    "litealex <litealex@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.2",
+    "angular-route": "~1.3.2",
+    "requirejs": "~2.1.15"
+  }
+}
